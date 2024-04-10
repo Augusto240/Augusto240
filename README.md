@@ -1,7 +1,7 @@
 ## What's up, I'm Augusto!
 
 - 🌱 I’m currently working on HTML, CSS, TypeScript & Python
-- 💻 I'm currently studying Django, Angular, Ruby and PHP
+- 💻 I'm currently studying NodeJS, React & PHP 
 - 💬 Ask me about Video-Games, RPGs and Movies!
 - ⚡ Fun fact about me: I love coffee!☕
 - Ⓜ️ Contact me: jose.aug18@outlook.com
