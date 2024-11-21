@@ -1,7 +1,7 @@
 ## What's up, I'm Augusto!
 
 - 🌱 I’m currently working on Angular, PrimeNG, NodeJS, TypeScript & Python
-- 💻 I'm currently studying React, PHP, WordPress & Ruby
+- 💻 I'm currently studying Java, Spring Framework, React, & Ruby
 - 💬 Ask me about Video-Games, RPGs, Movies and Animes!
 - ⚡ Fun fact about me: I love coffee!☕
 - Ⓜ️ Contact me: jose.aug18@outlook.com
