@@ -1,43 +1,56 @@
-## What's up, I'm Augusto!
+# 🌸 Hi, I'm Augusto >⩊<
 
-- 🌱 I’m currently working on Python
-- 💻 I'm currently studying Java, Spring Framework, React, & Ruby
-- 💬 Ask me about Video-Games, RPGs, Movies and Animes!
-- ⚡ Fun fact about me: I love coffee!☕
-- Ⓜ️ Contact me: jose.aug18@outlook.com
+**=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
+Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
-<!-- - 📫 How to reach me: ... -->
+<img align="right" src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif" width="170" style="border-radius: 12px" />
 
-<div>
-  <a href="https://github.com/Augusto240">
+---
+
+### 🔭 Currently learning:
+- React Native, Ruby
+
+### 🌱 Working with:
+- Python & AI projects
+
+### 💬 Ask me about:
+- Video games, RPGs, movies, and anime!
+
+### ⚡ Fun fact:
+- I love coffee ☕
+
+---
+
+<div align="center">
+  <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augusto240&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto240&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
-    <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Aug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Aug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Aug-Rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Aug-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://gifdb.com/images/high/anime-dance-konosuba-kazuma-eljqk94x8nczvxii.gif">
 
+---
 
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="30" />
 </div>
 
-  ##
-  
-<div> 
+---
 
-
-  <a href="https://instagram.com/augustoliveira1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:augusto.oliveira1@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/augusto-oliveira-4a8068235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+### 📫 Contact me
+<div align="center">
+  <a href="https://instagram.com/augustoliveira1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:augusto.oliveira1@escolar.ifrn.edu.br">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/augusto-oliveira-4a8068235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
-
- ##
-
