@@ -14,7 +14,6 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
   vspace="12"
 />
 
----
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
