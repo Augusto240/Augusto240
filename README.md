@@ -77,13 +77,6 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Augusto240/count.svg" alt="Profile Views"/>
-  <img src="https://skyline.github.com/Augusto240.svg" alt="GitHub Skyline"/>
-</div>
-
----
-
 ## 📅 Let’s Connect  
 - Ping me on Discord: `auggie4060`
 
