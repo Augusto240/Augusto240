@@ -5,7 +5,6 @@
 **=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
-
 ---
 <img
   align="right"
@@ -19,8 +18,6 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
 - [Contact](#contact)
-
-
 
 
 ---
