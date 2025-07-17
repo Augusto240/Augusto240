@@ -3,7 +3,7 @@
 **=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
-<img align="right" src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif" width="170" style="border-radius: 12px" />
+<img align="right" src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif" width="170" style="border-radius: 9px" />
 
 ---
 
@@ -36,8 +36,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" width="30" />  
 </div>
 
 ---
