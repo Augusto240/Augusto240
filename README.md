@@ -1,6 +1,6 @@
 # 🌸 Hi, I'm Augusto >⩊<
 
-[![Gmail Badge](https://img.shields.io/badge/Email-augusto.oliveira1%40escolar.ifrn.edu.br-blue?style=flat-square&logo=gmail)](mailto:augusto.oliveira1@escolar.ifrn.edu.br)  
+[![Gmail Badge](https://img.shields.io/badge/Email-jose.aug18%40outlook.com-blue?style=flat-square&logo=gmail)](mailto:jose.aug18@outlook.com)  
 [![Open to Collaborate](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Augusto240)  
 ![Researcher](https://img.shields.io/badge/Researcher-CCSL%20IFRN-blueviolet)
 
