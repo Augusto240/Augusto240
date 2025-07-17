@@ -58,7 +58,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
 | [Pokedex-Ruby](https://github.com/Augusto240/pokedex-ruby) | Interactive Pokédex built with Ruby & Sinatra consuming the PokéAPI | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby) ![Sinatra](https://img.shields.io/badge/Sinatra-000?style=flat&logo=sinatra) |
@@ -68,7 +68,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 📋 Projects
+### 📋 Projects
 <div align="center">
   <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augusto240&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -77,7 +77,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 📅 Let’s Connect  
+### 📅 Let’s Connect  
 - Ping me on Discord: `auggie4060`
 
 ---
