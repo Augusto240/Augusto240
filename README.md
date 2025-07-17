@@ -20,6 +20,9 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 - [Projects](#projects)
 - [Contact](#contact)
 
+
+
+
 ---
 
 ### 🧑‍💻 About Me
@@ -54,7 +57,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
 | [Pokedex-Ruby](https://github.com/Augusto240/pokedex-ruby) | Interactive Pokédex built with Ruby & Sinatra consuming the PokéAPI | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby) ![Sinatra](https://img.shields.io/badge/Sinatra-000?style=flat&logo=sinatra) |
@@ -64,12 +67,16 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 📋 Projects
-![stats](https://github-readme-stats.vercel.app/api?username=Augusto240&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+### 📋 Projects
+<div align="center">
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augusto240&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto240&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ---
 
-## 📫 Contact me
+### 📫 Contact me
 <div align="center">
   <a href="https://instagram.com/augustoliveira1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
