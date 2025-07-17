@@ -1,5 +1,7 @@
 # 🌸 Hi, I'm Augusto >⩊<
 
+[![Open to Collaborate](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Augusto240)
+
 **=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
@@ -39,7 +41,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" />
