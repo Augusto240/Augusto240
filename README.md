@@ -1,19 +1,16 @@
 # 🌸 Hi, I'm Augusto >⩊<
 
-[![Open to Collaborate](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Augusto240)
-
-**=^◕⩊◕^= Web Development Student @ IFRN | Full‑Stack Developer & Python Enthusiast**  
+**=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
----
 
+---
 <img
   align="right"
   src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif"
   width="170"
   vspace="12"
 />
-
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
