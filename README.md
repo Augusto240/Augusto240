@@ -7,7 +7,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
   align="right"
   src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif"
   width="170"
-  style="border-radius: 9px; margin-top: 12px;"
+  vspace="12"
 />
 
 ---
