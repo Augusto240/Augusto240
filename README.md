@@ -13,8 +13,6 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
   vspace="12"
 />
 
----
-
 ### 🧑‍💻 About Me
 - Researcher at [CCSL – IFRN](https://ccsl.ifrn.edu.br/equipe/)  
 - Experienced in Selenium and web scraping of Brazilian government sites (JavaScript & Plone)  
