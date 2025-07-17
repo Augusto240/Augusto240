@@ -3,8 +3,8 @@
 **=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
----
 
+---
 <img
   align="right"
   src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif"
@@ -12,7 +12,6 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
   vspace="12"
 />
 
----
 
 ### 🌱 Working with:
 - Python & AI projects
