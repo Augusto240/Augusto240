@@ -3,15 +3,20 @@
 **=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
-<img align="right" src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif" width="170" style="border-radius: 9px" />
+<img
+  align="right"
+  src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif"
+  width="170"
+  style="border-radius: 9px; margin-top: 12px;"
+/>
 
 ---
 
-### 🔭 Currently learning:
-- React Native, Ruby
-
 ### 🌱 Working with:
 - Python & AI projects
+
+### 🔭 Currently learning:
+- React Native, Ruby
 
 ### 💬 Ask me about:
 - Video games, RPGs, movies, and anime!
