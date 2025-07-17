@@ -1,11 +1,14 @@
 # 🌸 Hi, I'm Augusto >⩊<
 
-[![Open to Collaborate](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Augusto240)
+[![Gmail Badge](https://img.shields.io/badge/Email-augusto.oliveira1%40escolar.ifrn.edu.br-blue?style=flat-square&logo=gmail)](mailto:augusto.oliveira1@escolar.ifrn.edu.br)  
+[![Open to Collaborate](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Augusto240)  
+![Researcher](https://img.shields.io/badge/Researcher-CCSL%20IFRN-blueviolet)
 
-**=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
+**=^◕⩊◕^= Web Development Student @ IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
+
 <img
   align="right"
   src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif"
@@ -45,7 +48,17 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-### 🚀 Featured Projects
+### 📊 Skills Level
+| Skill            | Level    |
+|------------------|----------|
+| Python & AI      | ★★★★☆   |
+| React & RN       | ★★★☆☆   |
+| Ruby & Sinatra   | ★★★★☆   |
+| Docker & Postgre | ★★★☆☆   |
+
+---
+
+## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
 | [Pokedex-Ruby](https://github.com/Augusto240/pokedex-ruby) | Interactive Pokédex built with Ruby & Sinatra consuming the PokéAPI | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby) ![Sinatra](https://img.shields.io/badge/Sinatra-000?style=flat&logo=sinatra) |
@@ -55,7 +68,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-### 📋 Projects
+## 📋 Projects
 <div align="center">
   <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augusto240&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -64,12 +77,22 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
+![Profile Views](https://profile-counter.glitch.me/Augusto240/count.svg)  
+![GitHub Skyline](https://skyline.github.com/Augusto240.svg)
+
+---
+
+## 📅 Let’s Connect  
+- Ping me on Discord: `auggie4060`
+
+---
+
 ### 📫 Contact me
 <div align="center">
   <a href="https://instagram.com/augustoliveira1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:jose.aug18@outlook.com">
+  <a href="mailto:augusto.oliveira1@escolar.ifrn.edu.br">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/augusto-oliveira-4a8068235/" target="_blank">
