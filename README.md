@@ -3,6 +3,7 @@
 **=^◕⩊◕^= Web Development Student at IFRN | Full‑Stack Developer & Python Enthusiast**  
 Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
+<br><br>
 <img
   align="right"
   src="https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif"
