@@ -12,7 +12,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
   vspace="12"
 />
 
-## 📑 Table of Contents
+### 📑 Table of Contents
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
@@ -20,7 +20,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 - Researcher at [CCSL – IFRN](https://ccsl.ifrn.edu.br/equipe/)  
 - Experienced in Selenium and web scraping of Brazilian government sites (JavaScript & Plone)  
 - Familiar with Retrieval-Augmented Generation (RAG) and working with Ollama  
