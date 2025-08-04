@@ -11,7 +11,7 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 
 <img
   align="right"
-  src="[https://i.pinimg.com/originals/78/df/df/78dfdf2b90a171ebac7da7fe079638bf.gif](https://i.pinimg.com/originals/5f/fe/2e/5ffe2e64ba3ecccd590727473a36fd50.gif)"
+  src="https://i.pinimg.com/originals/5f/fe/2e/5ffe2e64ba3ecccd590727473a36fd50.gif"
   width="170"
   vspace="12"
 />
