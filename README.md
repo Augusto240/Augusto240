@@ -5,7 +5,7 @@
 ![Researcher](https://img.shields.io/badge/Researcher-CCSL%20IFRN-blueviolet)
 
 **=^◕⩊◕^= Web Development Student @ IFRN | Full‑Stack Developer & Python Enthusiast**  
-Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
+Recently worked with AI, MLOps and Full-Stack systems at CCSL – IFRN and NOCS Lab ≽^•⩊•^≼
 
 ---
 
@@ -17,15 +17,21 @@ Currently working with AI & Python at CCSL – IFRN ≽^•⩊•^≼
 />
 
 ### 🧑‍💻 About Me
-- Researcher at [CCSL – IFRN](https://ccsl.ifrn.edu.br/equipe/)  
-- Experienced in Selenium and web scraping of Brazilian government sites (JavaScript & Plone)  
-- Familiar with Retrieval-Augmented Generation (RAG) and working with Ollama  
+- Software Developer and Web Development student at IFRN  
+- Former Researcher at CCSL – IFRN (AI, RAG & MLOps)  
+- Former Extension Fellow at NOCS Lab – IFRN (Full-Stack & IoT systems)  
+- Experience with:
+  - AI pipelines (RAG, LangChain, Milvus)
+  - Full-Stack systems (Angular, Node.js, Docker)
+  - Infrastructure, backups and system validation
 
-### 🌱 Working with:
-- Python & AI projects
+### 🌱 Main interests
+- AI & MLOps
+- Full-Stack Development
+- Systems Architecture & Infrastructure
 
 ### 🔭 Currently learning:
-- React Native, Ruby
+- Django, Ruby
 
 ### 💬 Ask me about:
 - Video games, RPGs, movies, and anime!
