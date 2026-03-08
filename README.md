@@ -1,102 +1,89 @@
-# 🌸 Hi, I'm Augusto >⩊<
+# Hi, I'm Augusto 👋
 
-[![Gmail Badge](https://img.shields.io/badge/Email-jose.aug18%40outlook.com-blue?style=flat-square&logo=gmail)](mailto:jose.aug18@outlook.com)  
-[![Open to Collaborate](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Augusto240)  
-![Researcher](https://img.shields.io/badge/Researcher-CCSL%20IFRN-blueviolet)
+Software developer from Brazil 🇧🇷 focused on **Python backend systems, AI pipelines and full-stack applications**.
 
-**=^◕⩊◕^= Web Development Student @ IFRN | Full‑Stack Developer & Python Enthusiast**  
-Recently worked with AI, MLOps and Full-Stack systems at CCSL – IFRN and NOCS Lab ≽^•⩊•^≼
+I enjoy building systems that combine **data pipelines, automation and web applications** — especially projects involving AI, scraping infrastructure and distributed systems.
 
----
-
-<img
-  align="right"
-  src="https://i.pinimg.com/originals/5f/fe/2e/5ffe2e64ba3ecccd590727473a36fd50.gif"
-  width="170"
-  vspace="12"
-/>
-
-### 🧑‍💻 About Me
-- Software Developer and Web Development student at IFRN  
-- Former Researcher at CCSL – IFRN (AI, RAG & MLOps)  
-- Former Extension Fellow at NOCS Lab – IFRN (Full-Stack & IoT systems)  
-- Experience with:
-  - AI pipelines (RAG, LangChain, Milvus)
-  - Full-Stack systems (Angular, Node.js, Docker)
-  - Infrastructure, backups and system validation
-
-### 🌱 Main interests
-- AI & MLOps
-- Full-Stack Development
-- Systems Architecture & Infrastructure
-
-### 🔭 Currently learning:
-- Django, Ruby
-
-### 💬 Ask me about:
-- Video games, RPGs, movies, and anime!
-
-### ⚡ Fun fact:
-- I love coffee ☕
+📍 Natal, Rio Grande do Norte  
+💻 Open to remote work (international or Brazil)
 
 ---
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" />
-</div>
+## 🚀 What I work with
+
+Most of my recent work involves:
+
+• **Python backend development**  
+• **AI systems and RAG pipelines**  
+• **Web scraping and data pipelines**  
+• **Full-stack applications**
+
+Tech I use frequently:
+
+Python • Node.js • TypeScript  
+LangChain • Milvus • Selenium  
+Angular • React • REST APIs  
+Docker • PostgreSQL • MySQL
 
 ---
 
-### 📊 Skills Level
-| Skill            | Level    |
-|------------------|----------|
-| Python & AI      | ★★★★☆   |
-| React & RN       | ★★★☆☆   |
-| Ruby & Sinatra   | ★★★★☆   |
-| Docker & Postgre | ★★★☆☆   |
+## 🧠 Current interests
+
+Some areas I’ve been exploring recently:
+
+- Retrieval-Augmented Generation (RAG)
+- Backend architecture and APIs
+- Data pipelines and ETL systems
+- Distributed systems and infrastructure
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|---|---|---|
-| [Pokedex-Ruby](https://github.com/Augusto240/pokedex-ruby) | Interactive Pokédex built with Ruby & Sinatra consuming the PokéAPI | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby) ![Sinatra](https://img.shields.io/badge/Sinatra-000?style=flat&logo=sinatra) |
-| [Gerenciador-Academia-JiuJitsu](https://github.com/Augusto240/gerenciador-academia-jiujitsu) | Brazilian Jiu-Jitsu academy management system with Docker & PostgreSQL | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby) ![Sinatra](https://img.shields.io/badge/Sinatra-000?style=flat&logo=sinatra) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) |
-| [App-Filmes-OMDB-React-Native](https://github.com/Augusto240/App-Filmes-OMDB-React-Native) | Movie lookup app using OMDB API in React Native & Expo | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react) |
-| [Envio-de-email-com-Ruby](https://github.com/Augusto240/Envio-de-email-com-Ruby) | Email sending with Ruby Action Mailer | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby) |
+## 📂 Featured projects
+
+### SmartFAQ — AI Knowledge Assistant
+RAG system that answers questions from institutional documents.
+
+Tech:  
+Python • LangChain • Milvus • Streamlit
+
+Features:
+- Hybrid semantic search
+- Document ingestion pipeline
+- AI powered question answering
 
 ---
 
-### 📋 Projects
-<div align="center">
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augusto240&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto240&layout=compact&langs_count=7&theme=radical"/>
-</div>
+### Municipal Data Scraper
+
+Automated scraping pipeline for dynamic government portals.
+
+Tech:  
+Python • Selenium • PostgreSQL
+
+Features:
+- Dynamic page rendering
+- Structured data extraction
+- REST API integration
 
 ---
 
-### 📅 Let’s Connect  
-- Ping me on Discord: `auggie4060`
+### Jiu-Jitsu Academy Manager
+
+Full-stack web platform for managing academy students and classes.
+
+Tech:  
+Ruby • Sinatra • Docker • PostgreSQL
 
 ---
 
-### 📫 Contact me
-<div align="center">
-  <a href="https://instagram.com/augustoliveira1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:augusto.oliveira1@escolar.ifrn.edu.br">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/augusto-oliveira-4a8068235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+## 📚 Background
+
+Currently studying **Internet Systems at IFRN** while working on applied research projects involving **generative AI, data pipelines and backend systems**.
+
+---
+
+## 📫 Contact
+
+✉️ jose.aug18@outlook.com  
+💼 LinkedIn: linkedin.com/in/augusto-oliveira-4a8068235  
+🐙 GitHub: github.com/Augusto240
