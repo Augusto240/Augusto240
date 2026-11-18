@@ -2,7 +2,7 @@
 
 **AI Engineer — production RAG systems.** · Natal, Brazil (UTC−3)
 
-[![Email](https://img.shields.io/badge/Email-5980A6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jose.aug18@outlook.com)
+[![Email](https://img.shields.io/badge/Email-5980A6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gutonetodev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5980A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-oliveira-4a8068235/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5980A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://augusto240.github.io/Personal-Site/)
 [![ORCID](https://img.shields.io/badge/ORCID-5980A6?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7020-6469)
